@@ -122,6 +122,6 @@ width="45%">
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-For more details, please refer to the code repository and documentation.
+For more details, please refer to the code Repository and Documentation.
 
 Feel free to contribute or provide feedback to help improve the project further. Thank you for your interest!
