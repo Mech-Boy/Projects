@@ -2,24 +2,6 @@
 
 This project is a clone of the Sundown Studios official website, developed using HTML, CSS, and JavaScript. The website features front-end animations, responsive design, and various interactive elements. Below is an overview of the key features and technologies used during the development process:
 
-## Features
-
-- **Clean and Professional Design**: The website features a clean and professional design with a navigation bar for easy access to different sections.
-
-- **Front-end Animations**: Animations were implemented using HTML, CSS, and JavaScript to enhance the user experience and add visual appeal.
-
-- **Responsive Design**: The website is designed to be responsive, ensuring optimal viewing experience across a wide range of devices and screen sizes.
-
-- **Smooth Scrolling**: Smooth scrolling functionality was implemented using the Locomotive GS library to provide a seamless navigation experience.
-
-- **Swiper JS Integration**: The Swiper JS library was utilized to create interactive sliders and carousels for showcasing content such as images and videos.
-
-- **Custom Fonts and Icons**: Custom fonts and icons were applied using CSS to enhance the visual aesthetics of the website.
-
-- **Hover Effects and Transitions**: Various hover effects and CSS transitions were implemented to provide interactive feedback to users.
-
-- **Dynamic Content Display**: JavaScript was used to manipulate website elements and dynamically display content based on user interaction.
-
 ## Technologies Used
 
 - **HTML**: Used for structuring the content and layout of the website.
